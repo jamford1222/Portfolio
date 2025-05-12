@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Jimenez portfolio</title>
+
+<link href="design.css" rel="stylesheet" name= " ">
+
+
+</head>
+<body>
+
+ <div class="box">
+    <button>Click Me</button>
+  </div>
+
+<div class="image">
+<img src="profile.jpg">
+</div>
+
+
+<div class="header">
+	<p>Hello sur</p>
+</div>
+
+
+</body>
+</html>
